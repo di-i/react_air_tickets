@@ -25,3 +25,6 @@
 2. `cd react-crm-app`
 3. `npm install`
 4. `npm start`
+
+
+![Screen Shot 2020-11-23 at 11 18 07 AM](https://user-images.githubusercontent.com/55539864/99940664-b1ad0400-2d7d-11eb-8ee8-5f33f21c8e2c.png)
