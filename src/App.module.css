@@ -1,0 +1,12 @@
+.page {
+  width: 100vw;
+  height: 240vh;
+  display: flex;
+  background-color: #e7fbff !important;
+}
+
+.main-wrapper {
+  display: flex;
+  flex-direction: column;
+  margin-left: -60px;
+}
